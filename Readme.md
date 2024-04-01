@@ -8,7 +8,7 @@ https://github.com/FisanovE/Ticket-parse
 ***
 https://github.com/FisanovE/Wallet
 Напишите приложение, которое по REST принимает запрос вида: `POST api/v1/wallet`
-```
+```json
 {
 "walletId": "UUID",
 "operationType": "DEPOSIT" or "WITHDRAW",
