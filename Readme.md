@@ -165,7 +165,9 @@ https://github.com/FisanovE/Ticket-parse
 }
 ```
 </details>
+
 ***
+
 https://github.com/FisanovE/Wallet
 Напишите приложение, которое по REST принимает запрос вида: `POST api/v1/wallet`
 ```json
